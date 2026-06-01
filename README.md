@@ -1,6 +1,3 @@
-Siap, ini versi **README.md siap salin semua**. Tinggal copy dari `# CookCash` sampai akhir, lalu paste ke file **README.md** kamu.
-
-````md
 # CookCash
 
 **CookCash** adalah aplikasi rekomendasi resep dan pencatatan budget makan berbasis mobile untuk membantu mahasiswa indekos dalam mengelola kebutuhan makan harian secara lebih praktis, hemat, dan terencana.
@@ -101,7 +98,7 @@ Sebelum menjalankan project ini, pastikan perangkat sudah memiliki beberapa soft
 ```bash
 git clone https://github.com/Rikuyy/Aldente-Project.git
 cd Aldente-Project
-````
+```
 
 > Catatan: Repository ini menggunakan struktur monorepo yang berisi folder Laravel, API, dan Flutter.
 
@@ -324,10 +321,10 @@ GEMINI_API_KEY=masukkan_api_key_anda_di_sini
 
 ## 📌 Catatan Penggunaan
 
-* Pastikan MongoDB sudah berjalan sebelum menjalankan Laravel.
-* Pastikan server Laravel berjalan sebelum menjalankan aplikasi Flutter.
-* Pastikan server Flask berjalan agar fitur chatbot dan rekomendasi dapat digunakan.
-* Gunakan IP lokal komputer untuk menghubungkan Flutter dengan backend ketika memakai emulator atau perangkat Android.
+- Pastikan MongoDB sudah berjalan sebelum menjalankan Laravel.
+- Pastikan server Laravel berjalan sebelum menjalankan aplikasi Flutter.
+- Pastikan server Flask berjalan agar fitur chatbot dan rekomendasi dapat digunakan.
+- Gunakan IP lokal komputer untuk menghubungkan Flutter dengan backend ketika memakai emulator atau perangkat Android.
 
 ---
 
@@ -340,8 +337,3 @@ This code is distributed under an [MIT License](LICENSE).
 ## Copyright
 
 Copyright (c) 2026 Kebon Almastrip Team
-
-```
-
-Itu untuk **README.md**. Untuk file **LICENSE**, tetap isi pakai MIT License lengkap yang sudah kamu buat sebelumnya. Data ini aku rapikan dari teks project CookCash yang kamu kirim. :contentReference[oaicite:0]{index=0}
-```
